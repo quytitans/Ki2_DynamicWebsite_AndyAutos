@@ -94,6 +94,7 @@
         <button class="btn-success">Add to cart</button>
     </div>
 </div>
+<a href="http://www.heroku.com" target="_blank" class="btn">Heroku.com</a>
 </body>
 <div class="row footer1">
     <h5>&copy;Copy right 2021 NVQ</h5>
