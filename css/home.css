@@ -1,16 +1,32 @@
 body {
     margin:0;
 }
-h1 {
-    font-family: 'Ceviche One', cursive;
-    font-family: 'Work Sans', sans-serif;
-}
+
 img{
     max-height: 400px;
 }
+
+/*.footer1{*/
+/*    height:fit-content;*/
+/*    min-height: 50px;*/
+/*    background-color: #212529;*/
+/*}*/
+/*.footer1 h5{*/
+/*    margin-top:10px;*/
+/*    margin-left: auto;*/
+/*    margin-right: auto;*/
+/*    text-align: center;*/
+/*    color: #d2d2d2;*/
+/*}*/
+
 .topnav {
     overflow: hidden;
     background-color: #333;
+}
+
+.center {
+    margin: auto;
+    padding: 10px;
 }
 
 .topnav a {
