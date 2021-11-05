@@ -1,8 +1,12 @@
 body {
     margin:0;
 }
-h2 {
-    text-align: center;
+h1 {
+    font-family: 'Ceviche One', cursive;
+    font-family: 'Work Sans', sans-serif;
+}
+img{
+    max-height: 400px;
 }
 .topnav {
     overflow: hidden;

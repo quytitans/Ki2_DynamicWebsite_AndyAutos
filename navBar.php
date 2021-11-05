@@ -1,8 +1,16 @@
-<h2>Freetuts.net hướng dẫn tạo responsive navbar</h2>
-<div class="topnav" id="myTopnav">
-    <a href="#home">Trang chủ</a>
-    <a href="#news">Học lập trình online</a>
-    <a href="#contact">Thủ thuật</a>
-    <a href="#about">Liên hệ</a>
+<h1>Andy's Autos</h1>
+<div class="topnav row" id="myTopnav">
+    <div class="col-md-12 col-lg-3">
+        <a href="/dynamicwebsite_Andy’sAutos/home.php">Trang chủ</a>
+    </div>
+    <div class="col-md-12 col-lg-3">
+        <a href="/dynamicwebsite_Andy’sAutos/contactUs.php">Contact Us</a>
+    </div>
+    <div class="col-md-12 col-lg-3">
+        <a href="/dynamicwebsite_Andy’sAutos/aboutUs.php">About Us</a>
+    </div>
+    <div class="col-md-12 col-lg-3">
+        <a href="/dynamicwebsite_Andy’sAutos/policy.php">Policy</a>
+    </div>
     <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
