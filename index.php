@@ -7,7 +7,15 @@
     <?php include 'library.php'; ?>
     <link rel="stylesheet" href="./css/home.css">
     <title>Home Page</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q4JD021YE1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
+        gtag('config', 'G-Q4JD021YE1');
+    </script>
 </head>
 <body class="container-fluid">
 <?php include 'navBar.php'; ?>
@@ -100,14 +108,6 @@
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-61862d10bbc5a288"></script>
 <!------------>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3JT04T5TH"></script>
-<!--<script>-->
-<!--    window.dataLayer = window.dataLayer || [];-->
-<!--    function gtag(){dataLayer.push(arguments);}-->
-<!--    gtag('js', new Date());-->
-<!---->
-<!--    gtag('config', 'G-Y3JT04T5TH');-->
-<!--</script>-->
-<!--Start of Tawk.to Script-->
 <script type="text/javascript">
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
