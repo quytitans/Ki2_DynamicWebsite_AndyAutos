@@ -100,13 +100,26 @@
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-61862d10bbc5a288"></script>
 <!------------>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3JT04T5TH"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-Y3JT04T5TH');
+<!--<script>-->
+<!--    window.dataLayer = window.dataLayer || [];-->
+<!--    function gtag(){dataLayer.push(arguments);}-->
+<!--    gtag('js', new Date());-->
+<!---->
+<!--    gtag('config', 'G-Y3JT04T5TH');-->
+<!--</script>-->
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/61862f3c6885f60a50ba93e4/1fjq2h200';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+    })();
 </script>
+<!--End of Tawk.to Script-->
 </body>
 <div class="row footer1">
     <h5>&copy;Copy right 2021 NVQ</h5>
