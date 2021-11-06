@@ -2,16 +2,14 @@
 <html lang="">
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2FWH1GT165"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3JT04T5TH"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'G-2FWH1GT165');
+        gtag('config', 'G-Y3JT04T5TH');
     </script>
-
-
     <meta charset="utf-8">
     <link rel="stylesheet" href="./library/bootstrap.css">
     <?php include 'library.php'; ?>
