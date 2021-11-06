@@ -9,7 +9,7 @@
     <title>Home Page</title>
 
 </head>
-<body class="container">
+<body class="container-fluid">
 <?php include 'navBar.php'; ?>
 <div style="padding-left:16px" class="row">
     <div class="col-12 col-lg-12">

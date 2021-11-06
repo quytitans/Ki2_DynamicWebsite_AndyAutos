@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./css/home.css">
     <title>Home Page</title>
 </head>
-<body class="container">
+<body class="container-fluid">
 <?php include 'navBar.php'; ?>
 <div class="row">
     <div class="col-md-12 col-lg-8 center">

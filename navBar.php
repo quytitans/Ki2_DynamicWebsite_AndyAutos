@@ -7,7 +7,7 @@
         <a href="https://andyauto.herokuapp.com/contactUs.php">Contact Us</a>
     </div>
     <div class="col-md-12 col-lg-3">
-        <a href="https://andyauto.herokuapp.com/aboutUs.php">Google Analytics</a>
+        <a href="https://andyauto.herokuapp.com/aboutUs.php">About Us</a>
     </div>
     <div class="col-md-12 col-lg-3">
         <a href="https://andyauto.herokuapp.com/policy.php">Policy</a>
