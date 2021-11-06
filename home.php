@@ -96,7 +96,9 @@
         <button class="btn-success">Add to cart</button>
     </div>
 </div>
-<a href="http://www.heroku.com" target="_blank" class="btn">Heroku.com</a>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-61862d10bbc5a288"></script>
+<!------------>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3JT04T5TH"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
