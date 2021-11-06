@@ -6,6 +6,15 @@
     <?php include 'library.php'; ?>
     <link rel="stylesheet" href="./css/home.css">
     <title>Home Page</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-212193758-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-212193758-1');
+    </script>
 </head>
 <body class="container">
 <?php include 'navBar.php'; ?>
