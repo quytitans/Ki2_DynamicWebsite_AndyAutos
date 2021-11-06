@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="">
 <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="./library/bootstrap.css">
-    <?php include 'library.php'; ?>
-    <link rel="stylesheet" href="./css/home.css">
-    <title>Home Page</title>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-2FWH1GT165"></script>
     <script>
@@ -15,6 +10,14 @@
 
         gtag('config', 'G-2FWH1GT165');
     </script>
+
+
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./library/bootstrap.css">
+    <?php include 'library.php'; ?>
+    <link rel="stylesheet" href="./css/home.css">
+    <title>Home Page</title>
+
 </head>
 <body class="container">
 <?php include 'navBar.php'; ?>
