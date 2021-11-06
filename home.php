@@ -2,14 +2,6 @@
 <html lang="">
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3JT04T5TH"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-Y3JT04T5TH');
-    </script>
     <meta charset="utf-8">
     <link rel="stylesheet" href="./library/bootstrap.css">
     <?php include 'library.php'; ?>
@@ -105,6 +97,14 @@
     </div>
 </div>
 <a href="http://www.heroku.com" target="_blank" class="btn">Heroku.com</a>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3JT04T5TH"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-Y3JT04T5TH');
+</script>
 </body>
 <div class="row footer1">
     <h5>&copy;Copy right 2021 NVQ</h5>
